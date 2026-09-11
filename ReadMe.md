@@ -50,5 +50,4 @@ An e-commerce company needed to determine if a website redesign actually improve
 
 ## Author
 Harshavardhan Bandaru
-- LinkedIn: [your link]
 - Email: bandaruharshavardhan2619@gmail.com
